@@ -13,7 +13,7 @@ BuildRoot:	%_tmppath/%name-buildroot
 BuildArch:	noarch
 
 %description
-Penguin faces from previous Mandrakelinux releases.
+Penguin faces from previous Mandriva Linux releases.
 
 %prep
 
