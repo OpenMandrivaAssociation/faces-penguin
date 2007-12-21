@@ -9,6 +9,7 @@ Release:	%release
 License:	GPL
 Group:		System/Configuration/Other	
 Source0:	%name-%version.tar.bz2
+BuildRoot:	%_tmppath/%name-buildroot
 BuildArch:	noarch
 
 %description
