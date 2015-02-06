@@ -1,6 +1,6 @@
 %define	name	faces-penguin
 %define	version 0.1
-%define	release	%mkrel 8
+%define release	9
 
 Summary:	Penguin face icons
 Name:		%name
